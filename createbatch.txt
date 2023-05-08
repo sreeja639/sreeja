@@ -2,4 +2,3 @@ operation, Application,name, location, email
 CreateIdentity,ADApplication, Alex Smith, Austin, asmith@adept.com 
 CreateIdentity, ADApplication,Bob Smith, Austin, asmith@adept.com 
 CreateIdentity, ADApplication,Mark Smith, Austin, asmith@adept.com
-CreateIdentity,ADApplication, John Smith, Austin, johnsmith@adept.com
